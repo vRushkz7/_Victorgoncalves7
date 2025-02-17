@@ -1,6 +1,7 @@
 ## Hello! My name is Victor Gonçalves 👾
+Estou cursando analise e desenvolvimento de sistemas, e trabalhando na area de programaçao a 7 meses, sou apaixonado pela tecnologia e tudo que ela pode trasnformar na vida das pessoas. 💜
 - Programador full stack
-- javascript 💜
+
 
 <table>
   <tr>
